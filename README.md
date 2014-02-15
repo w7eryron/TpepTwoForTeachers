@@ -29,7 +29,9 @@ mHours - number of hours in the EP, to nearest tenth
 
 mDocTitle - title for a supporting document ... may someday become a list
 
-mDocLink - link for supporting document ... ditto
+mDocLink - link for supporting document - TBD ... ditto
+
+mPhoto - FUTURE TBD - no clue how to do this yet, may be able to follow BigNerd example
 
 ++++++++++++++++++++++++++++++++++++++++++++ 
 
@@ -37,12 +39,30 @@ first view shows a list of the items sorted by date or by criteria, vertical scr
 
 second view shows a detail of a given item, horizontal scroll
 
-three buttons: 
-  new item
-  statistics on entire list
-  toggle lisst view between "sort by date" and "sort by criteria"
+
+five buttons: 
+
+  new item - following BigNerd
+  
+  statistics on entire list - TBD
+  
+  toggle list view between "sort by date" and "sort by criteria" - TBD
+  
+  send entire file to someone via email, probably several ways - TBD
+  
+  take a photo - TBD, probably following BigNerd
   
 ++++++++++++++++++++++++++++++++++++++++++++ 
+
+Statistics button - all TBD as of 2/15
+  total hours
+  total items
+  total items by criteria number
+  total items in "student learning" sub-categorys
+  graph showing total items by criteria number
+
+++++++++++++++++++++++++++++++++++++++++++++ 
+
 
 
 
