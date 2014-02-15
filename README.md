@@ -12,6 +12,7 @@ Very closely follows the "Criminal Intent" emonstration App in "Big Nerd Ranch A
 currently only for my cell phone - samsung running froyo, ... might work on something else. ??
 
 ++++++++++++++++++++++++++++++++++++++++++++ 
+
 Variables in "LogItem" object:
 
 mId - randomly generatted
