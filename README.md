@@ -52,13 +52,22 @@ five buttons:
   
   take a photo - TBD, probably following BigNerd
   
+
+Database or similar relating Washington State Criteria Number to short descriiption of each. About 30 items. TBD
+
+  
 ++++++++++++++++++++++++++++++++++++++++++++ 
 
 Statistics button - all TBD as of 2/15
+
   total hours
+  
   total items
+  
   total items by criteria number
+  
   total items in "student learning" sub-categorys
+  
   graph showing total items by criteria number
 
 ++++++++++++++++++++++++++++++++++++++++++++ 
